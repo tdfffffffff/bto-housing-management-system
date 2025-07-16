@@ -1,0 +1,8 @@
+Enquiry_ID,Applicant_Name,Applicant_NRIC,Project_Name,Content,Response,Status,Created_At,Last_Modified,Responded_At,Responded_By
+1,James,T2345678D,Acacia Breeze,"Where is the bus stop","Is right next to the small door.",CLOSED,2025-04-20 20:05,2025-04-24 19:36,2025-04-24 19:36,S6543210I
+2,James,T2345678D,Acacia Breeze,"Hello","What's up",CLOSED,2025-04-20 20:05,2025-04-24 15:06,2025-04-24 15:06,
+3,John,S1234567A,Acacia Breeze,"How large is it?","not so large",CLOSED,2025-04-24 15:03,2025-04-24 19:17,2025-04-24 19:17,S6543210I
+4,John,S1234567A,Acacia Breeze,"Is it near MRT Station?","yes",CLOSED,2025-04-24 15:04,2025-04-24 19:17,2025-04-24 19:17,S6543210I
+5,John,S1234567A,Spring Breeze,"How much is it",,DELETED,2025-04-24 15:04,2025-04-24 15:04,,
+6,John,S1234567A,Spring Breeze,"i want to buy it!! please let me have it",,OPEN,2025-04-24 19:35,2025-04-24 19:35,,
+7,Emily,S6543210I,Acacia Breeze,"I am the officer","Hi",CLOSED,2025-04-24 19:41,2025-04-24 21:04,2025-04-24 21:04,S6543210I

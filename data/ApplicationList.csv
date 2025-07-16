@@ -1,0 +1,5 @@
+Applicant_Name,Applicant_NRIC,Applicant_Age,Applicant_Marital_Status,Project_Name,Flat_Type,Application_Status,Request_Withdrawal
+James,T2345678D,30,MARRIED,Acacia Breeze,THREE_ROOM,UNSUCCESSFUL,false
+John,S1234567A,35,SINGLE,Acacia Breeze,TWO_ROOM,UNSUCCESSFUL,false
+Sarah,T7654321B,40,MARRIED,Lakeholmz,TWO_ROOM,BOOKED,false
+Grace,S9876543C,37,MARRIED,yojin5,THREE_ROOM,BOOKED,false
